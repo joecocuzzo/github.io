@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="C:/BeaverLakeMap/image-map-pro.min_absolute.css">
+</head>
+<body>
+    <div id="image-map-pro-container"></div>
+    <script src="C:/BeaverLakeMap/jquery.min.js"></script>
+    <script src="C:/BeaverLakeMap/image-map-pro.min.js"></script>
+<script type="text/javascript" src="C:/BeaverLakeMap/beaverlakemap_absolute.js"></script>
+</body>
+</html>
